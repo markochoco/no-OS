@@ -1,0 +1,16 @@
+<map id="projects/ad5766&#45;sdz/src/ad5766_core.c" name="projects/ad5766&#45;sdz/src/ad5766_core.c">
+<area shape="rect" id="node1" title="Implementation of AD5766 Core Driver." alt="" coords="373,5,527,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,319,76,345"/>
+<area shape="rect" id="node3" href="$spi__engine_8h.html" title=" " alt="" coords="343,95,447,121"/>
+<area shape="rect" id="node6" href="$spi__engine__private_8h.html" title=" " alt="" coords="165,169,322,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="471,95,541,121"/>
+<area shape="rect" id="node12" href="$no__os__error_8h.html" title="Error codes definition." alt="" coords="565,95,674,121"/>
+<area shape="rect" id="node14" href="$ad5766__core_8h.html" title="Header file of AD5766 Core Driver." alt="" coords="698,95,815,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="309,319,380,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="520,169,615,196"/>
+<area shape="rect" id="node10" href="$axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="347,169,444,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="119,319,202,345"/>
+<area shape="rect" id="node8" href="$no__os__spi_8h.html" title="Header file of SPI Interface." alt="" coords="295,244,394,271"/>
+<area shape="rect" id="node9" href="$no__os__util_8h.html" title="Header file of utility functions." alt="" coords="120,244,220,271"/>
+<area shape="rect" id="node13" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="639,169,707,196"/>
+</map>

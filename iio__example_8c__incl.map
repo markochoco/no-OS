@@ -1,0 +1,15 @@
+<map id="projects/eval&#45;adxl355&#45;pmdz/src/examples/iio_example/iio_example.c" name="projects/eval&#45;adxl355&#45;pmdz/src/examples/iio_example/iio_example.c">
+<area shape="rect" id="node1" title="Implementation of IIO example for eval&#45;adxl355&#45;pmdz project." alt="" coords="323,5,504,61"/>
+<area shape="rect" id="node2" href="$iio__example_8h.html" title="IIO example header for eval&#45;adxl355&#45;pmdz project." alt="" coords="220,109,335,136"/>
+<area shape="rect" id="node3" href="$iio__adxl355_8h.html" title="Header file of IIO ADXL355 Driver." alt="" coords="359,109,468,136"/>
+<area shape="rect" id="node13" title=" " alt="" coords="493,109,619,136"/>
+<area shape="rect" id="node4" href="$iio_8h.html" title="Header file of iio." alt="" coords="303,184,353,211"/>
+<area shape="rect" id="node12" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="451,184,547,211"/>
+<area shape="rect" id="node5" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="281,259,375,285"/>
+<area shape="rect" id="node9" href="$no__os__uart_8h.html" title="Header file of UART interface." alt="" coords="138,259,243,285"/>
+<area shape="rect" id="node6" title=" " alt="" coords="135,408,217,435"/>
+<area shape="rect" id="node7" title=" " alt="" coords="293,408,363,435"/>
+<area shape="rect" id="node8" href="$no__os__circular__buffer_8h.html" title="Circular buffer library header." alt="" coords="365,333,536,360"/>
+<area shape="rect" id="node10" href="$no__os__lf256fifo_8h.html" title="SPSC lock&#45;free fifo of fixed size (256), specialized for UART." alt="" coords="5,333,139,360"/>
+<area shape="rect" id="node11" title=" " alt="" coords="37,408,107,435"/>
+</map>

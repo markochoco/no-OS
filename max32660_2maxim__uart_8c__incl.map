@@ -1,0 +1,17 @@
+<map id="drivers/platform/maxim/max32660/maxim_uart.c" name="drivers/platform/maxim/max32660/maxim_uart.c">
+<area shape="rect" id="node1" title="Source file of UART driver for STM32." alt="" coords="398,5,587,47"/>
+<area shape="rect" id="node2" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="164,244,235,271"/>
+<area shape="rect" id="node4" href="$max32660_2maxim__irq_8h.html" title="Header file for maxim irq specifics." alt="" coords="530,95,634,121"/>
+<area shape="rect" id="node6" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="533,169,629,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="780,169,840,196"/>
+<area shape="rect" id="node9" href="$max32660_2maxim__uart_8h.html" title="Header file of UART driver." alt="" coords="659,95,772,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="847,95,938,121"/>
+<area shape="rect" id="node11" title=" " alt="" coords="962,95,1069,121"/>
+<area shape="rect" id="node12" href="$no__os__uart_8h.html" title="Header file of UART interface." alt="" coords="349,95,455,121"/>
+<area shape="rect" id="node14" href="$no__os__lf256fifo_8h.html" title="SPSC lock&#45;free fifo of fixed size (256), specialized for UART." alt="" coords="274,169,407,196"/>
+<area shape="rect" id="node15" href="$no__os__util_8h.html" title="Header file of utility functions." alt="" coords="149,169,249,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="653,169,756,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="433,244,504,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="299,244,382,271"/>
+</map>

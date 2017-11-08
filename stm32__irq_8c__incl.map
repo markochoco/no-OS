@@ -1,0 +1,13 @@
+<map id="drivers/platform/stm32/stm32_irq.c" name="drivers/platform/stm32/stm32_irq.c">
+<area shape="rect" id="node1" title="Implementation of external irq driver." alt="" coords="174,5,346,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="173,244,243,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,169,91,196"/>
+<area shape="rect" id="node4" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="507,95,575,121"/>
+<area shape="rect" id="node5" href="$no__os__list_8h.html" title="List library header." alt="" coords="211,95,309,121"/>
+<area shape="rect" id="node7" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="324,169,420,196"/>
+<area shape="rect" id="node8" href="$no__os__util_8h.html" title="Header file of utility functions." alt="" coords="86,95,186,121"/>
+<area shape="rect" id="node9" href="$stm32__irq_8h.html" title="Header file for stm32 irq specifics." alt="" coords="384,95,483,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="167,169,249,196"/>
+<area shape="rect" id="node10" href="$stm32__hal_8h.html" title=" " alt="" coords="445,169,547,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="463,244,529,271"/>
+</map>

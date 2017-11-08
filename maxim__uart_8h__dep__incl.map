@@ -1,0 +1,10 @@
+<map id="drivers/platform/maxim/maxim_uart.h" name="drivers/platform/maxim/maxim_uart.h">
+<area shape="rect" id="node1" title="Header file of UART driver." alt="" coords="364,5,541,47"/>
+<area shape="rect" id="node2" href="$maxim__uart_8c.html" title="Source file of UART driver for STM32." alt="" coords="5,102,183,143"/>
+<area shape="rect" id="node3" href="$adxrs290-pmdz_2src_2platform_2maxim_2parameters_8h.html" title="Definitions specific to Maxim platform used by eval&#45;adxrs290&#45;pmdz project." alt="" coords="207,102,453,143"/>
+<area shape="rect" id="node5" href="$eval-adxl355-pmdz_2src_2platform_2maxim_2parameters_8h.html" title="Definitions specific to Maxim platform used by eval&#45;adxl355&#45;pmdz project." alt="" coords="477,95,673,151"/>
+<area shape="rect" id="node7" href="$iio__demo_2src_2platform_2maxim_2parameters_8h.html" title="Definitions specific to Maxim platform used by iio_demo project." alt="" coords="697,102,920,143"/>
+<area shape="rect" id="node4" href="$adxrs290-pmdz_2src_2platform_2maxim_2parameters_8c.html" title="Definition of Maxim platform data used by eval&#45;adxrs290&#45;pmdz project." alt="" coords="207,206,453,247"/>
+<area shape="rect" id="node6" href="$eval-adxl355-pmdz_2src_2platform_2maxim_2parameters_8c.html" title="Definition of Maxim platform data used by eval&#45;adxl355&#45;pmdz project." alt="" coords="477,199,673,255"/>
+<area shape="rect" id="node8" href="$iio__demo_2src_2platform_2maxim_2parameters_8c.html" title="Definition of Maxim platform data used by iio_demo project." alt="" coords="697,206,920,247"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="iio/iio_app/iio_app.h" name="iio/iio_app/iio_app.h">
+<area shape="rect" id="node1" title="Header file of iio_app." alt="" coords="300,5,452,32"/>
+<area shape="rect" id="node2" href="$iio_8h.html" title="Header file of iio." alt="" coords="303,80,353,107"/>
+<area shape="rect" id="node10" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="451,80,547,107"/>
+<area shape="rect" id="node3" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="281,155,375,181"/>
+<area shape="rect" id="node7" href="$no__os__uart_8h.html" title="Header file of UART interface." alt="" coords="138,155,243,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="135,304,217,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="293,304,363,331"/>
+<area shape="rect" id="node6" href="$no__os__circular__buffer_8h.html" title="Circular buffer library header." alt="" coords="365,229,536,256"/>
+<area shape="rect" id="node8" href="$no__os__lf256fifo_8h.html" title="SPSC lock&#45;free fifo of fixed size (256), specialized for UART." alt="" coords="5,229,139,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="37,304,107,331"/>
+</map>

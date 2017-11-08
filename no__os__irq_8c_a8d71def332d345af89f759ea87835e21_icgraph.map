@@ -1,0 +1,6 @@
+<map id="no_os_irq_ctrl_remove" name="no_os_irq_ctrl_remove">
+<area shape="rect" id="node1" title="Free the resources allocated by no_os_irq_ctrl_init()." alt="" coords="204,56,373,83"/>
+<area shape="rect" id="node2" href="$aducm3029__flash__demo_2src_2main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="53,5,108,32"/>
+<area shape="rect" id="node3" href="$pico__uart_8c.html#a196e5101239dca2f07f7f02c408fe623" title="Initialize the UART communication peripheral." alt="" coords="20,56,141,83"/>
+<area shape="rect" id="node4" href="$pico__uart_8c.html#a661d56b52f24df7ed61d86eca9783232" title="Free the resources allocated by no_os_uart_init()." alt="" coords="5,107,156,133"/>
+</map>

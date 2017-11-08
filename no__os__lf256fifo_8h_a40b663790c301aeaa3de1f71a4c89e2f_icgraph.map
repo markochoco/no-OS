@@ -1,0 +1,4 @@
+<map id="lf256fifo_remove" name="lf256fifo_remove">
+<area shape="rect" id="node1" title=" " alt="" coords="204,5,337,32"/>
+<area shape="rect" id="node2" href="$pico__uart_8c.html#a661d56b52f24df7ed61d86eca9783232" title="Free the resources allocated by no_os_uart_init()." alt="" coords="5,5,156,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="projects/eval&#45;adxl355&#45;pmdz/src/common/common_data.h" name="projects/eval&#45;adxl355&#45;pmdz/src/common/common_data.h">
+<area shape="rect" id="node1" title="Defines common data to be used by eval&#45;adxl355&#45;pmdz examples." alt="" coords="456,5,664,61"/>
+<area shape="rect" id="node2" href="$common__data_8c.html" title="Defines common data to be used by eval&#45;adxl355&#45;pmdz examples." alt="" coords="5,117,213,173"/>
+<area shape="rect" id="node3" href="$dummy__example_8c.html" title="DUMMY example header for eval&#45;adxl355&#45;pmdz project." alt="" coords="237,117,445,173"/>
+<area shape="rect" id="node4" href="$iio__example_8c.html" title="Implementation of IIO example for eval&#45;adxl355&#45;pmdz project." alt="" coords="469,117,651,173"/>
+<area shape="rect" id="node5" href="$iio__trigger__example_8c.html" title="Implementation of IIO trigger example for eval&#45;adxl355&#45;pmdz project." alt="" coords="675,109,882,180"/>
+<area shape="rect" id="node6" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2main_8c.html" title="Main file for STM32 platform of eval&#45;adxl355&#45;pmdz project." alt="" coords="906,117,1097,173"/>
+</map>

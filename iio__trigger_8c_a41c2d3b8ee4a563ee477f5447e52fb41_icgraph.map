@@ -1,0 +1,4 @@
+<map id="iio_hw_trig_handler" name="iio_hw_trig_handler">
+<area shape="rect" id="node1" title="Trigger interrupt handler. This function will be called when a system interrupt is asserted for the c..." alt="" coords="175,5,324,32"/>
+<area shape="rect" id="node2" href="$iio__trigger_8h.html#ac463acd613c3864b48d7c5d8671d7bef" title="Initialize hardware trigger." alt="" coords="5,5,127,32"/>
+</map>

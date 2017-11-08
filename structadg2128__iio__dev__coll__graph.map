@@ -1,0 +1,13 @@
+<map id="adg2128_iio_dev" name="adg2128_iio_dev">
+<area shape="rect" id="node1" title=" " alt="" coords="904,204,1036,231"/>
+<area shape="rect" id="node2" href="$structiio__device.html" title="Structure holding channels and attributes of a device." alt="" coords="689,153,777,180"/>
+<area shape="rect" id="node3" href="$structiio__channel.html" title="Struct describing the scan type." alt="" coords="363,103,459,129"/>
+<area shape="rect" id="node4" href="$structiio__attribute.html" title="Structure holding pointers to show and store functions." alt="" coords="43,37,145,64"/>
+<area shape="rect" id="node5" href="$structiio__chan__type.html" title="IIO channel types." alt="" coords="38,103,150,129"/>
+<area shape="rect" id="node6" href="$structscan__type.html" title=" " alt="" coords="50,153,138,180"/>
+<area shape="rect" id="node7" href="$structiio__context__attribute.html" title="Structure holding the context attribute members." alt="" coords="332,153,489,180"/>
+<area shape="rect" id="node8" href="$structno__os__irq__ctrl__desc.html" title=" " alt="" coords="336,204,485,231"/>
+<area shape="rect" id="node9" href="$structno__os__irq__platform__ops.html" title="Structure holding IRQ function pointers that point to the platform specific function." alt="" coords="5,204,183,231"/>
+<area shape="rect" id="node10" href="$structno__os__i2c__desc.html" title="Structure holding I2C descriptor." alt="" coords="672,229,795,256"/>
+<area shape="rect" id="node11" href="$structno__os__i2c__platform__ops.html" title="Structure holding I2C function pointers that point to the platform specific function." alt="" coords="321,255,500,281"/>
+</map>

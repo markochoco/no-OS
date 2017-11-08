@@ -1,0 +1,4 @@
+<map id="lf256fifo_read" name="lf256fifo_read">
+<area shape="rect" id="node1" title=" " alt="" coords="183,5,295,32"/>
+<area shape="rect" id="node2" href="$aducm3029__uart_8c.html#abbc76b629426052096fae6b7cbec8374" title="Read data from UART. Blocking function." alt="" coords="5,5,135,32"/>
+</map>

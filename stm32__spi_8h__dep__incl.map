@@ -1,0 +1,12 @@
+<map id="drivers/platform/stm32/stm32_spi.h" name="drivers/platform/stm32/stm32_spi.h">
+<area shape="rect" id="node1" title="Header file for the stm32 spi driver." alt="" coords="480,5,652,47"/>
+<area shape="rect" id="node2" href="$stm32__spi_8c.html" title="Implementation of stm32 spi driver." alt="" coords="5,102,177,143"/>
+<area shape="rect" id="node3" href="$ad74413r_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by ad74413r project." alt="" coords="202,102,421,143"/>
+<area shape="rect" id="node5" href="$adxrs290-pmdz_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by eval&#45;adxrs290&#45;pmdz project." alt="" coords="445,102,687,143"/>
+<area shape="rect" id="node7" href="$eval-adxl313z_2src_2platform_2stm32_2parameters_8h.html" title=" " alt="" coords="711,102,952,143"/>
+<area shape="rect" id="node9" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by eval&#45;adxl355&#45;pmdz project." alt="" coords="976,95,1167,151"/>
+<area shape="rect" id="node4" href="$ad74413r_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by ad74413r project." alt="" coords="203,206,420,247"/>
+<area shape="rect" id="node6" href="$adxrs290-pmdz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by eval&#45;adxrs290&#45;pmdz project." alt="" coords="446,206,686,247"/>
+<area shape="rect" id="node8" href="$eval-adxl313z_2src_2platform_2stm32_2parameters_8c.html" title=" " alt="" coords="711,206,951,247"/>
+<area shape="rect" id="node10" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by eval&#45;adxl355&#45;pmdz project." alt="" coords="976,199,1167,255"/>
+</map>

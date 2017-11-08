@@ -1,0 +1,24 @@
+<map id="projects/ad7124&#45;8pmdz/src/main.c" name="projects/ad7124&#45;8pmdz/src/main.c">
+<area shape="rect" id="node1" title="Implementation of Main Function." alt="" coords="451,5,626,47"/>
+<area shape="rect" id="node2" href="$ad7124-8pmdz_2src_2app__config_8h.html" title="Config file of AD7124&#45;8 project." alt="" coords="5,95,109,121"/>
+<area shape="rect" id="node3" href="$no__os__error_8h.html" title="Error codes definition." alt="" coords="133,95,243,121"/>
+<area shape="rect" id="node5" href="$iio_8h.html" title="Header file of iio." alt="" coords="369,169,420,196"/>
+<area shape="rect" id="node10" href="$no__os__uart_8h.html" title="Header file of UART interface." alt="" coords="218,244,323,271"/>
+<area shape="rect" id="node13" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="569,169,665,196"/>
+<area shape="rect" id="node14" href="$iio__ad7124_8h.html" title="Header file of iio_ad7124." alt="" coords="369,95,474,121"/>
+<area shape="rect" id="node15" href="$projects_2ad7124-8pmdz_2src_2ad7124__regs_8h.html" title="AD7124 register file." alt="" coords="708,169,825,196"/>
+<area shape="rect" id="node19" href="$iio__app_8h.html" title="Header file of iio_app." alt="" coords="498,95,579,121"/>
+<area shape="rect" id="node20" title=" " alt="" coords="706,95,822,121"/>
+<area shape="rect" id="node21" title=" " alt="" coords="847,95,964,121"/>
+<area shape="rect" id="node22" title=" " alt="" coords="987,95,1149,121"/>
+<area shape="rect" id="node4" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="154,169,222,196"/>
+<area shape="rect" id="node6" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="348,244,441,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="193,393,276,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="538,393,609,420"/>
+<area shape="rect" id="node9" href="$no__os__circular__buffer_8h.html" title="Circular buffer library header." alt="" coords="427,319,597,345"/>
+<area shape="rect" id="node11" href="$no__os__lf256fifo_8h.html" title="SPSC lock&#45;free fifo of fixed size (256), specialized for UART." alt="" coords="117,319,251,345"/>
+<area shape="rect" id="node12" title=" " alt="" coords="98,393,169,420"/>
+<area shape="rect" id="node16" href="$ad7124_8h.html" title="AD7124 header file. Devices AD7124&#45;4, AD7124&#45;8." alt="" coords="728,244,811,271"/>
+<area shape="rect" id="node17" href="$no__os__spi_8h.html" title="Header file of SPI Interface." alt="" coords="723,319,821,345"/>
+<area shape="rect" id="node18" href="$no__os__delay_8h.html" title="Header file of Delay functions." alt="" coords="846,319,959,345"/>
+</map>

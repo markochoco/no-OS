@@ -1,0 +1,5 @@
+<map id="drivers/platform/maxim/max32655/maxim_rtc.h" name="drivers/platform/maxim/max32655/maxim_rtc.h">
+<area shape="rect" id="node1" title="Header file of RTC driver." alt="" coords="106,5,287,47"/>
+<area shape="rect" id="node2" href="$max32655_2maxim__irq_8c.html" title="Implementation of external irq driver." alt="" coords="5,95,185,136"/>
+<area shape="rect" id="node3" href="$max32655_2maxim__rtc_8c.html" title="Implementation of RTC driver." alt="" coords="209,95,389,136"/>
+</map>

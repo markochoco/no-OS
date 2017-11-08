@@ -1,0 +1,7 @@
+<map id="drivers/platform/pico/pico_timer.h" name="drivers/platform/pico/pico_timer.h">
+<area shape="rect" id="node1" title="Header file for the pico timer driver." alt="" coords="188,5,347,47"/>
+<area shape="rect" id="node2" href="$pico__irq_8c.html" title="Implementation of external irq driver." alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$pico__timer_8c.html" title="Implementation of pico timer driver." alt="" coords="188,95,347,136"/>
+<area shape="rect" id="node4" href="$adxrs290-pmdz_2src_2platform_2pico_2parameters_8h.html" title="Definitions specific to pico platform used by adxrs290 project." alt="" coords="371,95,598,136"/>
+<area shape="rect" id="node5" href="$adxrs290-pmdz_2src_2platform_2pico_2parameters_8c.html" title="Definition of pico platform data used by adxrs290 project." alt="" coords="371,184,598,225"/>
+</map>

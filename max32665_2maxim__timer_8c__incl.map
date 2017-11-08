@@ -1,0 +1,12 @@
+<map id="drivers/platform/maxim/max32665/maxim_timer.c" name="drivers/platform/maxim/max32665/maxim_timer.c">
+<area shape="rect" id="node1" title="Source file for Maxim timer platform driver." alt="" coords="128,5,326,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="8,169,64,196"/>
+<area shape="rect" id="node3" href="$max32665_2maxim__timer_8h.html" title="Header file for Maxim timer platform driver." alt="" coords="25,95,146,121"/>
+<area shape="rect" id="node5" href="$no__os__error_8h.html" title="Error codes definition." alt="" coords="450,95,559,121"/>
+<area shape="rect" id="node7" href="$no__os__timer_8h.html" title="Timer control module header." alt="" coords="170,95,284,121"/>
+<area shape="rect" id="node8" href="$no__os__util_8h.html" title="Header file of utility functions." alt="" coords="308,95,408,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="182,169,253,196"/>
+<area shape="rect" id="node6" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="480,169,548,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="277,169,348,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="372,169,455,196"/>
+</map>

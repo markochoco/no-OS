@@ -1,0 +1,77 @@
+<map id="no_os_field_get" name="no_os_field_get">
+<area shape="rect" id="node1" title=" " alt="" coords="1217,1156,1340,1182"/>
+<area shape="rect" id="node2" href="$ad7293_8h.html#ad54bbf8a6a10ab25af83b06bc8ea75eb" title="Read raw value for specific channel and channel type." alt="" coords="735,237,894,264"/>
+<area shape="rect" id="node3" href="$ad7293_8h.html#a515de864cfd778ada09a3f18b3467e66" title="Reads data from AD7293 over SPI." alt="" coords="997,136,1129,162"/>
+<area shape="rect" id="node12" href="$ad7293_8h.html#a26a6c27490956083b559b2234232527c" title="Writes data to AD7293 over SPI." alt="" coords="995,305,1131,332"/>
+<area shape="rect" id="node16" href="$ad74413r_8h.html#a16d2de0ded1a1444a245f965fe33199f" title="Get the ADC measurement range for a specific channel." alt="" coords="970,373,1155,400"/>
+<area shape="rect" id="node17" href="$ad74413r_8h.html#a8067cbe5598b1155264049e24b5566a7" title="Get the rejection setting for a specific channel." alt="" coords="960,424,1165,450"/>
+<area shape="rect" id="node22" href="$ad74413r_8h.html#a194c5c1823b534d265b2ff8402eafe98" title="Get the diagnostic value for a specific channel." alt="" coords="989,541,1136,568"/>
+<area shape="rect" id="node24" href="$ad74413r_8h.html#a8d853f1af457b7794b13bbf40bc39842" title="Get the GPO value for a specific channel." alt="" coords="743,592,886,618"/>
+<area shape="rect" id="node25" href="$ad74413r_8h.html#a4516d35a4966c4f22d80c4dbccad1f8b" title="Get the number of active channels." alt="" coords="986,475,1139,516"/>
+<area shape="rect" id="node26" href="$ad7606_8h.html#a8b8917b88bf8a962cf4c03bbcc32d787" title="Set the channel gain." alt="" coords="985,642,1140,669"/>
+<area shape="rect" id="node27" href="$ad7779_8h.html#acf62504c0ce0bef53f1818da698abd58" title=" " alt="" coords="975,694,1151,735"/>
+<area shape="rect" id="node28" href="$ad7779_8h.html#aa41a9f16d69b50a4429eab443d8f442e" title=" " alt="" coords="983,760,1142,786"/>
+<area shape="rect" id="node29" href="$ad7779_8h.html#ab5bc5c4a022d67fe673f81b2f51c5e30" title=" " alt="" coords="996,810,1129,837"/>
+<area shape="rect" id="node30" href="$ad7779_8h.html#ac03060edc283a5a26917a649c01d29c9" title=" " alt="" coords="968,861,1157,888"/>
+<area shape="rect" id="node31" href="$ad7779_8h.html#a24b8a282eb7ef81e8cab5c368bc6f230" title=" " alt="" coords="987,912,1138,954"/>
+<area shape="rect" id="node32" href="$ad7779_8h.html#ade617a9988048c0a455833efa71fe35c" title=" " alt="" coords="961,978,1164,1005"/>
+<area shape="rect" id="node33" href="$ad7779_8h.html#a38115a54b6ba67348205fea73589f7b9" title=" " alt="" coords="987,1029,1139,1056"/>
+<area shape="rect" id="node34" href="$ad7779_8h.html#a28e44b15ee57b304f36b5fde84acc3df" title=" " alt="" coords="967,1080,1158,1106"/>
+<area shape="rect" id="node35" href="$ad7779_8h.html#a26445e6d5f55e2995117da34f1566ea5" title=" " alt="" coords="993,1130,1132,1157"/>
+<area shape="rect" id="node36" href="$admv1013_8h.html#a83a456b6d6c0f76257982ab292b605ae" title="Get I/Q Offset Accuracy." alt="" coords="971,1181,1154,1208"/>
+<area shape="rect" id="node37" href="$admv1013_8h.html#a538d3d34d69e3564538ef26dbdb0d6b3" title="Get I/Q Phase Accuracy." alt="" coords="971,1232,1155,1258"/>
+<area shape="rect" id="node38" href="$admv1013_8h.html#a0466df867756a21adaa080f89fb248c4" title="Initializes the admv1013." alt="" coords="1003,1282,1122,1309"/>
+<area shape="rect" id="node39" href="$admv1014_8h.html#a87e396e130b262c99fba91526e116d16" title="Get Baseband Amp Gain." alt="" coords="956,1333,1169,1360"/>
+<area shape="rect" id="node40" href="$admv1014_8h.html#a75070edf9a36848a9fa9d0586680a15d" title="Get Digital Rx Detector." alt="" coords="971,1384,1154,1410"/>
+<area shape="rect" id="node41" href="$admv1014_8h.html#af7b9270faed9c5ad6c22b6054fe5349e" title="Get IF Amp Gain." alt="" coords="959,1434,1166,1461"/>
+<area shape="rect" id="node42" href="$admv1014_8h.html#a6fecd9df68fa0f420cbe71667a1d6e1f" title="Get LO Amp Phase." alt="" coords="980,1485,1145,1512"/>
+<area shape="rect" id="node43" href="$admv1014_8h.html#af54aeecd75abebc7ad4b44d2eb947844" title="Initializes the admv1014." alt="" coords="1003,1536,1122,1562"/>
+<area shape="rect" id="node44" href="$admv8818_8h.html#a3995afeb482e0ae93b0fb4599c81b510" title="Get the HPF Frequency." alt="" coords="969,1586,1157,1613"/>
+<area shape="rect" id="node45" href="$admv8818_8h.html#ae377c301fc68f8be5179621514f7dd00" title="Get the HPF Frequency." alt="" coords="971,1637,1155,1664"/>
+<area shape="rect" id="node46" href="$adpd410x_8h.html#a0cf48ae700bd9b6ce5c1e278483bfdd9" title="Read a specified number of bytes from device register." alt="" coords="966,1738,1159,1765"/>
+<area shape="rect" id="node61" href="$adpd410x_8h.html#aa97bab6665b0c8a99322c8d3a357b0a5" title="Write device register." alt="" coords="737,1518,892,1545"/>
+<area shape="rect" id="node62" href="$adrf6780_8h.html#a23fecd266f2b4529b9514853bb453d7d" title="Get I/Q Phase Accuracy." alt="" coords="981,1790,1145,1831"/>
+<area shape="rect" id="node63" href="$adrf6780_8h.html#a1bb96e1ae6cd1b48b2745fa075ee267e" title="Get IMD Performance Improvement." alt="" coords="959,1856,1166,1882"/>
+<area shape="rect" id="node64" href="$adrf6780_8h.html#ad0ffbdbf399514f68df82b7a317b8fc4" title="Initializes the adrf6780." alt="" coords="1009,1906,1117,1933"/>
+<area shape="rect" id="node65" href="$adt7420_8h.html#a04dd8f9d469f2d8ae80e1291ec180cf2" title="Sets the value of a register SPI/I2C." alt="" coords="473,1974,659,2001"/>
+<area shape="rect" id="node68" href="$adt7420_8h.html#a93723bc7c542ac8358775d0cc8b5afd2" title="Sets the value of a register SPI/I2C." alt="" coords="743,2008,886,2034"/>
+<area shape="rect" id="node70" href="$adt7420_8h.html#a82c9c30e3d897e1b97d3ced33b60a9f5" title="Reads the value of a register SPI interface device." alt="" coords="980,2058,1145,2085"/>
+<area shape="rect" id="node4" href="$ad7293_8h.html#a134bb4226b149f0df6a6cd309e8d470b" title="Get the range value for ADC channels." alt="" coords="729,85,901,112"/>
+<area shape="rect" id="node5" href="$ad7293_8h.html#a3adfe9d02f044f1a6a9ba36ff47a8739" title="Set offset value for specific channel and channel type." alt="" coords="743,136,886,162"/>
+<area shape="rect" id="node6" href="$ad7293_8h.html#a3c09628fc50f54db81d143cc303355dd" title="Initializes the ad7293." alt="" coords="254,174,353,201"/>
+<area shape="rect" id="node7" href="$ad7293_8h.html#a03b72a5e25bb5313a023ef1b7b488c6b" title="Get the gain value for ISENSE channels." alt="" coords="723,34,906,61"/>
+<area shape="rect" id="node8" href="$ad7293_8h.html#a17456e775017996642393838c7794dd1" title="Update AD7293 register." alt="" coords="725,186,904,213"/>
+<area shape="rect" id="node9" href="$ad7293_8h.html#a20cbc717189b2bc5dc8de8e8e2f9033e" title="Set the range value for ADC channels." alt="" coords="481,148,651,174"/>
+<area shape="rect" id="node10" href="$ad7293_8h.html#a04a360cb13161e6c482fb5553e97e1be" title="Set the DAC output raw value." alt="" coords="481,300,651,326"/>
+<area shape="rect" id="node11" href="$ad7293_8h.html#aaf8a483dd479746d930dd36d71a6848a" title="Set the gain value for ISENSE channels." alt="" coords="475,198,657,225"/>
+<area shape="rect" id="node13" href="$ad7293_8h.html#a19bdfc790f34f3c38ef82df09d613ace" title="Set offset value for specific channel and channel type." alt="" coords="744,288,885,314"/>
+<area shape="rect" id="node14" href="$ad7293_8h.html#a817bb952a0b8cdd8e8dda89a6e4bd9ca" title="Perform software reset." alt="" coords="744,389,885,416"/>
+<area shape="rect" id="node15" href="$ad7293_8h.html#ab51f9381bfee7cb42516124836094363" title="Perform both hardware and software reset." alt="" coords="511,364,621,390"/>
+<area shape="rect" id="node18" href="$ad74413r_8h.html#a0f0b937846309275fff4a4325115d637" title="Get the ADC sample rate." alt="" coords="727,440,902,466"/>
+<area shape="rect" id="node19" href="$ad74413r_8h.html#abacf5bef0b202456a3191a66a19b7e2c" title="Get a single ADC raw value for a specific channel, then power down the ADC." alt="" coords="721,490,908,517"/>
+<area shape="rect" id="node20" href="$ad74413r_8h.html#ac66c658f628c3af7046d3f9ebb71f586" title="Get the ADC real value, according to the operation mode." alt="" coords="474,490,658,517"/>
+<area shape="rect" id="node21" href="$ad74413r_2src_2examples_2dummy_2dummy__example_8c.html#aab59a6c65a45a3bcf47030189141a81c" title="Dummy example main execution." alt="" coords="215,541,391,568"/>
+<area shape="rect" id="node23" href="$ad74413r_8h.html#ac8f2a6e1ed073e8acd21f266e695f1c4" title="Read the die&#39;s temperature from the diagnostic register." alt="" coords="490,541,642,568"/>
+<area shape="rect" id="node47" href="$adpd410x_8h.html#a0af50d86e2cf4508c5faecaa6a533ab8" title="Reads a certain number of bytes from the fifo and stores in data Used to read a large amount of data ..." alt="" coords="739,1688,890,1714"/>
+<area shape="rect" id="node48" href="$adpd410x_8h.html#acea46e9c43d9e459cc0b50253d76c9f8" title="Read device register." alt="" coords="739,1738,890,1765"/>
+<area shape="rect" id="node49" href="$adpd410x_8h.html#a4a65d1440f2d41e7f808ef813b77b237" title="Get a full data packet from the device containing data from all active time slots." alt="" coords="491,1670,641,1697"/>
+<area shape="rect" id="node50" href="$adpd410x_8h.html#a1af8b15290b36ee55a1844a2f6f851d4" title="Get number of bytes in the device FIFO." alt="" coords="459,1721,673,1748"/>
+<area shape="rect" id="node51" href="$adpd410x_8h.html#a4844c1a7e5060f6586d0242b512ee099" title="Get number of active time slots." alt="" coords="463,1822,669,1849"/>
+<area shape="rect" id="node52" href="$adpd410x_8h.html#a96d878550eebba0a2e4fb43b8d085f4e" title="Get operation mode." alt="" coords="479,1873,653,1900"/>
+<area shape="rect" id="node53" href="$adpd410x_8h.html#a0f9ff978aecb9ee80fd528121bc49b3e" title="Get device sampling frequency." alt="" coords="459,1924,673,1950"/>
+<area shape="rect" id="node54" href="$adpd410x_8h.html#a3398d6eea6ec9b5840cbdbfb21363ac0" title="Do a read and write of a register to update only part of a register." alt="" coords="467,1468,665,1494"/>
+<area shape="rect" id="node56" href="$adpd410x_8h.html#a8c47ad8226f8c0882232750616b4ac6d" title="Setup the device and the driver." alt="" coords="12,1544,141,1570"/>
+<area shape="rect" id="node59" href="$adpd410x_8h.html#aeebd23ab85c6cd30017c65946538e5e3" title="Setup an active time slot." alt="" coords="208,1620,399,1646"/>
+<area shape="rect" id="node60" href="$adpd410x_8h.html#adfc05439df83ca920f95cda419f45ee3" title="Set device sampling frequency." alt="" coords="459,1569,673,1596"/>
+<area shape="rect" id="node55" href="$adpd410x_8h.html#a7a74b5425d1d67e763df0ab85dc2df12" title="Do a software reset." alt="" coords="240,1518,367,1545"/>
+<area shape="rect" id="node57" href="$adpd410x_8c.html#a276c3d1815c3a76bc0c4a8556d51cc3b" title="Set number of active time slots." alt="" coords="201,1417,406,1444"/>
+<area shape="rect" id="node58" href="$adpd410x_8h.html#a2f5eb641289541459498a473a416724d" title="Set operation mode." alt="" coords="217,1468,390,1494"/>
+<area shape="rect" id="node66" href="$adt7420_8h.html#a6b22b40bd3315083e90bd52beacb1627" title="Sets the operational mode for ADT7420/ADT7320." alt="" coords="196,2000,411,2026"/>
+<area shape="rect" id="node67" href="$adt7420_8h.html#af3c4b14319003f5a2edf1dd69ac4dcad" title="Sets the resolution for ADT7420/ADT7320." alt="" coords="216,1949,391,1976"/>
+<area shape="rect" id="node69" href="$adt7420-pmdz_2src_2examples_2dummy_2dummy__example_8c.html#aab59a6c65a45a3bcf47030189141a81c" title="Dummy example main execution." alt="" coords="215,2101,391,2128"/>
+<area shape="rect" id="node71" href="$adt7420_8h.html#aaf34135a9a77ab49bdbcca0b9ac6b4ac" title="Reads the value of a register." alt="" coords="745,2076,884,2102"/>
+<area shape="rect" id="node72" href="$adt7420_8h.html#a04499e58b0fca74cdc4dc704a5e44c6a" title="Reads the temperature data and converts it to Celsius degrees." alt="" coords="471,2126,661,2153"/>
+<area shape="rect" id="node73" href="$adt7420_8h.html#a002fbfa6b776f9d63d6e394710c6fc49" title="Initializes the communication peripheral and checks if the device is present." alt="" coords="515,2177,617,2204"/>
+<area shape="rect" id="node74" href="$iio__adt7420_8h.html#a6cbb1d170acd8a5a0de1aa4890fd8340" title="Initializes the adt7420 IIO driver." alt="" coords="240,2177,367,2204"/>
+<area shape="rect" id="node75" href="$adt7420-pmdz_2src_2examples_2iio__example_2iio__example_8c.html#a7d58fb707a91d4615d3bf949fabaa1e2" title="IIO example main execution." alt="" coords="5,2177,148,2204"/>
+</map>

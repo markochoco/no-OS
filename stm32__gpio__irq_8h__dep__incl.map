@@ -1,0 +1,8 @@
+<map id="drivers/platform/stm32/stm32_gpio_irq.h" name="drivers/platform/stm32/stm32_gpio_irq.h">
+<area shape="rect" id="node1" title="Header file for stm32 gpio irq specifics." alt="" coords="225,5,397,47"/>
+<area shape="rect" id="node2" href="$stm32__gpio__irq_8c.html" title="Source file for GPIO IRQ driver." alt="" coords="5,102,177,143"/>
+<area shape="rect" id="node3" href="$ad74413r_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by ad74413r project." alt="" coords="202,102,421,143"/>
+<area shape="rect" id="node5" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by eval&#45;adxl355&#45;pmdz project." alt="" coords="445,95,636,151"/>
+<area shape="rect" id="node4" href="$ad74413r_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by ad74413r project." alt="" coords="203,206,420,247"/>
+<area shape="rect" id="node6" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by eval&#45;adxl355&#45;pmdz project." alt="" coords="445,199,636,255"/>
+</map>

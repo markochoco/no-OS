@@ -1,0 +1,15 @@
+<map id="drivers/platform/stm32/stm32_irq.h" name="drivers/platform/stm32/stm32_irq.h">
+<area shape="rect" id="node1" title="Header file for stm32 irq specifics." alt="" coords="676,5,848,47"/>
+<area shape="rect" id="node2" href="$stm32__irq_8c.html" title="Implementation of external irq driver." alt="" coords="5,102,177,143"/>
+<area shape="rect" id="node3" href="$stm32__uart_8c.html" title="Source file of UART driver for STM32." alt="" coords="201,102,373,143"/>
+<area shape="rect" id="node4" href="$ad74413r_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by ad74413r project." alt="" coords="398,102,617,143"/>
+<area shape="rect" id="node6" href="$adxrs290-pmdz_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by eval&#45;adxrs290&#45;pmdz project." alt="" coords="641,102,883,143"/>
+<area shape="rect" id="node8" href="$eval-adxl313z_2src_2platform_2stm32_2parameters_8h.html" title=" " alt="" coords="907,102,1148,143"/>
+<area shape="rect" id="node10" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to STM32 platform used by eval&#45;adxl355&#45;pmdz project." alt="" coords="1172,95,1363,151"/>
+<area shape="rect" id="node12" href="$iio__demo_2src_2platform_2stm32_2parameters_8h.html" title="Definitions specific to stm32 platform used by iio_demo project." alt="" coords="1387,102,1606,143"/>
+<area shape="rect" id="node5" href="$ad74413r_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by ad74413r project." alt="" coords="399,206,616,247"/>
+<area shape="rect" id="node7" href="$adxrs290-pmdz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by eval&#45;adxrs290&#45;pmdz project." alt="" coords="642,206,882,247"/>
+<area shape="rect" id="node9" href="$eval-adxl313z_2src_2platform_2stm32_2parameters_8c.html" title=" " alt="" coords="907,206,1147,247"/>
+<area shape="rect" id="node11" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2parameters_8c.html" title="Definition of STM32 platform data used by eval&#45;adxl355&#45;pmdz project." alt="" coords="1172,199,1363,255"/>
+<area shape="rect" id="node13" href="$iio__demo_2src_2platform_2stm32_2parameters_8c.html" title="Definition of stm32 platform data used by iio_demo project." alt="" coords="1388,206,1605,247"/>
+</map>

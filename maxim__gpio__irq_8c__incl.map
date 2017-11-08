@@ -1,0 +1,16 @@
+<map id="drivers/platform/maxim/maxim_gpio_irq.c" name="drivers/platform/maxim/maxim_gpio_irq.c">
+<area shape="rect" id="node1" title="Source file for GPIO IRQ driver." alt="" coords="296,5,473,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="22,169,93,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="253,244,324,271"/>
+<area shape="rect" id="node4" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="820,169,888,196"/>
+<area shape="rect" id="node5" href="$no__os__error_8h.html" title="Error codes definition." alt="" coords="822,95,931,121"/>
+<area shape="rect" id="node6" href="$no__os__util_8h.html" title="Header file of utility functions." alt="" coords="73,95,173,121"/>
+<area shape="rect" id="node8" href="$no__os__list_8h.html" title="List library header." alt="" coords="198,95,296,121"/>
+<area shape="rect" id="node9" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="358,169,454,196"/>
+<area shape="rect" id="node10" href="$no__os__gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="523,95,630,121"/>
+<area shape="rect" id="node11" href="$maxim_2gpio__irq__extra_8h.html" title="Header file of GPIO IRQ interface for Maxim platform." alt="" coords="372,95,498,121"/>
+<area shape="rect" id="node12" href="$maxim_2irq__extra_8h.html" title="Header file for maxim irq specifics." alt="" coords="654,95,746,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="168,169,251,196"/>
+<area shape="rect" id="node13" href="$maxim__hal_8h.html" title="Include chip specific peripheral macros." alt="" coords="560,169,667,196"/>
+<area shape="rect" id="node14" title=" " alt="" coords="692,169,752,196"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="max31855_read_raw" name="max31855_read_raw">
+<area shape="rect" id="node1" title="Read raw register value." alt="" coords="221,5,380,32"/>
+<area shape="rect" id="node2" href="$max31855_8h.html#abdca58ca6d3ed48396082f3ea8ed60ed" title="Read thermocouple and internal temperatures (converted in deg. C)" alt="" coords="5,5,173,32"/>
+</map>

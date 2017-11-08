@@ -1,0 +1,7 @@
+<map id="drivers/platform/maxim/irq_extra.h" name="drivers/platform/maxim/irq_extra.h">
+<area shape="rect" id="node1" title="Header file for maxim irq specifics." alt="" coords="95,5,273,47"/>
+<area shape="rect" id="node2" href="$maxim__hal_8h.html" title="Include chip specific peripheral macros." alt="" coords="5,95,112,121"/>
+<area shape="rect" id="node3" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="136,95,232,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="257,95,317,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="149,169,219,196"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="projects/eval&#45;adxl367z/src/platform/platform_includes.h" name="projects/eval&#45;adxl367z/src/platform/platform_includes.h">
+<area shape="rect" id="node1" title="Includes for used platforms used by eval&#45;adxl367z project." alt="" coords="580,5,751,61"/>
+<area shape="rect" id="node2" href="$eval-adxl355-pmdz_2src_2common_2common__data_8h.html" title="Defines common data to be used by eval&#45;adxl355&#45;pmdz examples." alt="" coords="157,109,365,165"/>
+<area shape="rect" id="node4" href="$eval-adxl355-pmdz_2src_2platform_2stm32_2main_8c.html" title="Main file for STM32 platform of eval&#45;adxl355&#45;pmdz project." alt="" coords="238,221,429,277"/>
+<area shape="rect" id="node5" href="$eval-adxl367z_2src_2common_2common__data_8h.html" title="Defines common data to be used by eval&#45;adxl367z examples." alt="" coords="778,117,993,158"/>
+<area shape="rect" id="node11" href="$eval-adxl367z_2src_2platform_2xilinx_2main_8c.html" title="Main file for XILINX platform of eval&#45;adxl367z project." alt="" coords="1607,228,1801,269"/>
+<area shape="rect" id="node3" href="$eval-adxl355-pmdz_2src_2common_2common__data_8c.html" title="Defines common data to be used by eval&#45;adxl355&#45;pmdz examples." alt="" coords="5,221,213,277"/>
+<area shape="rect" id="node6" href="$eval-adxl355-pmdz_2src_2examples_2dummy_2dummy__example_8c.html" title="DUMMY example header for eval&#45;adxl355&#45;pmdz project." alt="" coords="453,221,661,277"/>
+<area shape="rect" id="node7" href="$iio__example_8c.html" title="Implementation of IIO example for eval&#45;adxl355&#45;pmdz project." alt="" coords="685,221,867,277"/>
+<area shape="rect" id="node8" href="$iio__trigger__example_8c.html" title="Implementation of IIO trigger example for eval&#45;adxl355&#45;pmdz project." alt="" coords="891,213,1098,284"/>
+<area shape="rect" id="node9" href="$eval-adxl367z_2src_2common_2common__data_8c.html" title="Defines common data to be used by eval&#45;adxl367z examples." alt="" coords="1122,228,1337,269"/>
+<area shape="rect" id="node10" href="$eval-adxl367z_2src_2examples_2dummy_2dummy__example_8c.html" title="DUMMY example for eval&#45;adxl367z project." alt="" coords="1361,221,1583,277"/>
+</map>

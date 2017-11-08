@@ -1,0 +1,9 @@
+<map id="drivers/platform/pico/pico_uart.h" name="drivers/platform/pico/pico_uart.h">
+<area shape="rect" id="node1" title="Header file of UART driver for pico." alt="" coords="296,5,455,47"/>
+<area shape="rect" id="node2" href="$pico__irq_8c.html" title="Implementation of external irq driver." alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$pico__uart_8c.html" title="Source file of UART driver for pico." alt="" coords="188,95,347,136"/>
+<area shape="rect" id="node4" href="$adxrs290-pmdz_2src_2platform_2pico_2parameters_8h.html" title="Definitions specific to pico platform used by adxrs290 project." alt="" coords="371,95,598,136"/>
+<area shape="rect" id="node6" href="$iio__demo_2src_2platform_2pico_2parameters_8h.html" title="Definitions specific to pico platform used by iio_demo project." alt="" coords="623,95,827,136"/>
+<area shape="rect" id="node5" href="$adxrs290-pmdz_2src_2platform_2pico_2parameters_8c.html" title="Definition of pico platform data used by adxrs290 project." alt="" coords="371,184,598,225"/>
+<area shape="rect" id="node7" href="$iio__demo_2src_2platform_2pico_2parameters_8c.html" title="Definition of pico platform data used by iio_demo project." alt="" coords="623,184,826,225"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="drivers/platform/aducm3029/irq_extra.h" name="drivers/platform/aducm3029/irq_extra.h">
+<area shape="rect" id="node1" title="Header file of IRQ driver for ADuCM302x." alt="" coords="236,5,443,47"/>
+<area shape="rect" id="node2" href="$aducm3029__gpio__irq_8c.html" title="Source file for GPIO IRQ driver." alt="" coords="5,95,212,136"/>
+<area shape="rect" id="node3" href="$aducm3029__irq_8c.html" title="Implementation of External IRQ driver for ADuCM302x." alt="" coords="236,95,443,136"/>
+<area shape="rect" id="node4" href="$aducm3029_2no__os__uart_8c.html" title="Implementation of UART driver for ADuCM302x." alt="" coords="467,95,673,136"/>
+</map>

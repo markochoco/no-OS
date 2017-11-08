@@ -1,0 +1,12 @@
+<map id="drivers/platform/aducm3029/aducm3029_i2c.c" name="drivers/platform/aducm3029/aducm3029_i2c.c">
+<area shape="rect" id="node1" title="Implementation of I2C driver for ADuCM302x." alt="" coords="354,5,561,47"/>
+<area shape="rect" id="node2" href="$no__os__i2c_8h.html" title="Header file of I2C Interface." alt="" coords="5,95,104,121"/>
+<area shape="rect" id="node4" href="$aducm3029__i2c_8h.html" title=" " alt="" coords="128,95,264,121"/>
+<area shape="rect" id="node5" href="$no__os__error_8h.html" title="Error codes definition." alt="" coords="288,95,397,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="422,95,493,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="517,95,669,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="693,95,864,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="889,95,959,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,169,90,196"/>
+<area shape="rect" id="node6" href="$errno_8h.html" title="Error macro definition for ARM Compiler." alt="" coords="309,169,377,196"/>
+</map>

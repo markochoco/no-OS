@@ -1,0 +1,7 @@
+<map id="adxl313_conf_time_inact" name="adxl313_conf_time_inact">
+<area shape="rect" id="node1" title=" " alt="" coords="580,35,765,61"/>
+<area shape="rect" id="node2" href="$adxl313_8h.html#ae06e497c47b2ae2d1ae4175ba49f0324" title=" " alt="" coords="316,5,532,32"/>
+<area shape="rect" id="node3" href="$adxl313_8h.html#a61d431fad6242c88fc9ba605179e2dea" title="Enables the inactivity detection." alt="" coords="339,57,509,98"/>
+<area shape="rect" id="node4" href="$max11205pmb1_2src_2examples_2basic__example_2basic__example_8h.html#a72943dc9011d36293cb05ca5d7cb6899" title="Basic example main execution." alt="" coords="108,64,268,91"/>
+<area shape="rect" id="node5" href="$eval-adxl313z_2src_2platform_2stm32_2main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,64,60,91"/>
+</map>
